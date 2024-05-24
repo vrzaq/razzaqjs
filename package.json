@@ -1,6 +1,6 @@
 {
   "name": "razzaqjs",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "RazzaqJS - Kumpulan fungsi dan prototipe yang berguna untuk pengembangan JavaScript.",
   "main": "index.js",
   "type": "module",
